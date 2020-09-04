@@ -1,0 +1,7 @@
+calcula 1 -> Cont = 6
+
+calcula2 -> Cont = 12
+
+calcula 3 -> Cont = 24
+
+calcula4 -> Cont = 25
